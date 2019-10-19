@@ -6,3 +6,5 @@ prvy testovaci github projekt
 nejaky ytext
 
 zmena-pridala som tento text
+
+##hroncokova zmena
